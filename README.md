@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Singh Jadon</h1>
 <h3 align="center">🚀B.Tech CSE Student | Aspiring Software Developer</h3>
 
-- 🌱 I’m currentlY learning **MERN Stack, Next.js, Databases (SQL & NoSQL), and Data Analysis (Preprocessing, Visualization & Insights), Data Structures & Algorithms**
+- 🌱 I’m currently learning **MERN Stack, Next.js, Databases (SQL & NoSQL), and Data Analysis (Preprocessing, Visualization & Insights), Data Structures & Algorithms**
 
 - 📫 How to reach me **vedantsingh.jadon10@gmail.com**
 
